@@ -1,0 +1,29 @@
+{
+  "name": "site-prerender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dattran92/site-prerender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dattran92/site-prerender/issues"
+  },
+  "homepage": "https://github.com/dattran92/site-prerender#readme",
+  "dependencies": {
+    "bunyan": "^1.8.15",
+    "express": "^4.17.3",
+    "find-free-port": "^2.0.0",
+    "fs-extra": "^10.0.1",
+    "puppeteer": "^13.5.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.13.0"
+  }
+}
