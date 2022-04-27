@@ -32,6 +32,10 @@ await sp.close()
 3. Get the HTML rendered in that headless browser
 4. Save it the destination
 
-## Example project
+## Example
 
+### Working website with VueJS
+[https://blog.dattran.one](https://blog.dattran.one)
+
+### Demo usage
 [https://github.com/dattranone/markdown-vue-blog/blob/master/scripts/prerender.js](https://github.com/dattranone/markdown-vue-blog/blob/master/scripts/prerender.js)
